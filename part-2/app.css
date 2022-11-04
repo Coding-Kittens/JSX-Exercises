@@ -1,0 +1,47 @@
+body{
+  background-color: #D1DADC;
+}
+
+
+.tweet{
+  margin-top: 35px;
+  width: 30em;
+  padding-left: 15px;
+  border-radius: 15px;
+  background-color: #92B9C1;
+}
+
+.name {
+position: relative;
+left: 0px;
+margin: 0px;
+}
+
+  p{
+margin: 0px;
+position: relative;
+left: 20%;
+}
+
+.date{
+position: relative;
+left: 0px;
+margin: 0px;
+font-size: .8em;
+}
+
+
+.replies{
+  margin: 0px;
+  width: 30em;
+  padding: 1px;
+  padding-left: 14px;
+  border-radius: 15px;
+  background-color: #76A48F;
+  position: relative;
+  left: 40px;
+}
+
+.replies .tweet{
+  margin: 4px;
+}
